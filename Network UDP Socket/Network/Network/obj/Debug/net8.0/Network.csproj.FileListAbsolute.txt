@@ -1,0 +1,14 @@
+D:\Lập trình mạng\Network UDP Socket\Network\Network\bin\Debug\net8.0\Network.exe
+D:\Lập trình mạng\Network UDP Socket\Network\Network\bin\Debug\net8.0\Network.deps.json
+D:\Lập trình mạng\Network UDP Socket\Network\Network\bin\Debug\net8.0\Network.runtimeconfig.json
+D:\Lập trình mạng\Network UDP Socket\Network\Network\bin\Debug\net8.0\Network.dll
+D:\Lập trình mạng\Network UDP Socket\Network\Network\bin\Debug\net8.0\Network.pdb
+D:\Lập trình mạng\Network UDP Socket\Network\Network\obj\Debug\net8.0\Network.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình mạng\Network UDP Socket\Network\Network\obj\Debug\net8.0\Network.AssemblyInfoInputs.cache
+D:\Lập trình mạng\Network UDP Socket\Network\Network\obj\Debug\net8.0\Network.AssemblyInfo.cs
+D:\Lập trình mạng\Network UDP Socket\Network\Network\obj\Debug\net8.0\Network.csproj.CoreCompileInputs.cache
+D:\Lập trình mạng\Network UDP Socket\Network\Network\obj\Debug\net8.0\Network.dll
+D:\Lập trình mạng\Network UDP Socket\Network\Network\obj\Debug\net8.0\refint\Network.dll
+D:\Lập trình mạng\Network UDP Socket\Network\Network\obj\Debug\net8.0\Network.pdb
+D:\Lập trình mạng\Network UDP Socket\Network\Network\obj\Debug\net8.0\Network.genruntimeconfig.cache
+D:\Lập trình mạng\Network UDP Socket\Network\Network\obj\Debug\net8.0\ref\Network.dll

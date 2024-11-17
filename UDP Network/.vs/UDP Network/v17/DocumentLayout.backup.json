@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L\u1EADp tr\u00ECnh m\u1EA1ng\\UDP Network\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD927F88-045E-42DA-BE27-A62FE9217D17}|Client2\\Client2.csproj|d:\\l\u1EADp tr\u00ECnh m\u1EA1ng\\udp network\\client2\\client2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD927F88-045E-42DA-BE27-A62FE9217D17}|Client2\\Client2.csproj|solutionrelative:client2\\client2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194C650A-1111-4536-ADDE-B1E272F63F6C}|Client\\Client1.csproj|d:\\l\u1EADp tr\u00ECnh m\u1EA1ng\\udp network\\client\\client1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194C650A-1111-4536-ADDE-B1E272F63F6C}|Client\\Client1.csproj|solutionrelative:client\\client1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BB1D9D-C101-4A17-9B2E-67B189A44033}|UDP Network\\Server.csproj|d:\\l\u1EADp tr\u00ECnh m\u1EA1ng\\udp network\\udp network\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BB1D9D-C101-4A17-9B2E-67B189A44033}|UDP Network\\Server.csproj|solutionrelative:udp network\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "client2.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh m\u1EA1ng\\UDP Network\\Client2\\client2.cs",
+              "RelativeDocumentMoniker": "Client2\\client2.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh m\u1EA1ng\\UDP Network\\Client2\\client2.cs",
+              "RelativeToolTip": "Client2\\client2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:24:48.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "client1.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh m\u1EA1ng\\UDP Network\\Client\\client1.cs",
+              "RelativeDocumentMoniker": "Client\\client1.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh m\u1EA1ng\\UDP Network\\Client\\client1.cs",
+              "RelativeToolTip": "Client\\client1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:44:23.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "server.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh m\u1EA1ng\\UDP Network\\UDP Network\\server.cs",
+              "RelativeDocumentMoniker": "UDP Network\\server.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh m\u1EA1ng\\UDP Network\\UDP Network\\server.cs",
+              "RelativeToolTip": "UDP Network\\server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:15:10.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
