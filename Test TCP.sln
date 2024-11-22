@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server", "..\..\Lập trình mạng\server\server.csproj", "{4A179267-0588-49A6-BE2B-B97C699D8498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client", "..\..\Lập trình mạng\client\client.csproj", "{495CECD6-FC5E-412D-B81E-3D22BDE7CCC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A179267-0588-49A6-BE2B-B97C699D8498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A179267-0588-49A6-BE2B-B97C699D8498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A179267-0588-49A6-BE2B-B97C699D8498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A179267-0588-49A6-BE2B-B97C699D8498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{495CECD6-FC5E-412D-B81E-3D22BDE7CCC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495CECD6-FC5E-412D-B81E-3D22BDE7CCC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495CECD6-FC5E-412D-B81E-3D22BDE7CCC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495CECD6-FC5E-412D-B81E-3D22BDE7CCC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
